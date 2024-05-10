@@ -1,0 +1,28 @@
+# PyTorch
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+
+# PySyft
+syft
+
+# memtorch
+memtorch
+
+# NumPy
+numpy
+
+# SciPy
+scipy
+
+# scikit-learn
+scikit-learn
+
+# Matplotlib
+matplotlib
+
+# Jupyter Notebook
+jupyter
+
+# tqdm
+tqdm
